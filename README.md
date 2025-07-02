@@ -48,3 +48,10 @@ Username: → enter your GitHub username
 Password: → paste the token you just generated
 
 ✅ If you used git config --global credential.helper store, it will remember the token so you don’t have to enter it again.
+
+
+
+1. git credential-manager clear
+2. git config --global user.name "Your Name"
+3. git config --global user.email "your.email@example.com"
+
