@@ -55,3 +55,9 @@ Password: → paste the token you just generated
 2. git config --global user.name "Your Name"
 3. git config --global user.email "your.email@example.com"
 
+<role rolename="manager-gui"/>
+<role rolename="admin-gui"/>
+<user username="vrindabs" password="16M2022@shriya" roles="manager-gui,admin-gui,manager-script,manager-script,manager-jmx,manager-status"/>
+
+conf
+notepad tomcat-users.xml
